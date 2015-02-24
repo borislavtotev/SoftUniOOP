@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache

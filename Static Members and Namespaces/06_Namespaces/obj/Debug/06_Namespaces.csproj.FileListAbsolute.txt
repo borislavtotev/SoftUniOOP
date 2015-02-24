@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\06_Namespaces\bin\Debug\06_Namespaces.exe.config
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\06_Namespaces\bin\Debug\06_Namespaces.exe
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\06_Namespaces\bin\Debug\06_Namespaces.pdb
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\06_Namespaces\obj\Debug\06_Namespaces.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\06_Namespaces\obj\Debug\06_Namespaces.exe
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\06_Namespaces\obj\Debug\06_Namespaces.pdb

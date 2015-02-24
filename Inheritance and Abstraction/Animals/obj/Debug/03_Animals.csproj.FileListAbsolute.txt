@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\Animals\bin\Debug\03_Animals.exe.config
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\Animals\bin\Debug\03_Animals.exe
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\Animals\bin\Debug\03_Animals.pdb
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\Animals\obj\Debug\03_Animals.exe
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\Animals\obj\Debug\03_Animals.pdb
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\Animals\obj\Debug\03_Animals.csprojResolveAssemblyReference.cache

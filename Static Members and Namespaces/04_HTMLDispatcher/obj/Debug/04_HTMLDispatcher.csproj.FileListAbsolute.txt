@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\04_HTMLDispatcher\bin\Debug\04_HTMLDispatcher.exe.config
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\04_HTMLDispatcher\bin\Debug\04_HTMLDispatcher.exe
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\04_HTMLDispatcher\bin\Debug\04_HTMLDispatcher.pdb
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\04_HTMLDispatcher\obj\Debug\04_HTMLDispatcher.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\04_HTMLDispatcher\obj\Debug\04_HTMLDispatcher.exe
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\04_HTMLDispatcher\obj\Debug\04_HTMLDispatcher.pdb

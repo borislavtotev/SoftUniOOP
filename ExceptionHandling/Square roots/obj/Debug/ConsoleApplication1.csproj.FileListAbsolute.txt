@@ -1,0 +1,2 @@
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\ConsoleApplication1\bin\Debug\SquareRoot.exe.config

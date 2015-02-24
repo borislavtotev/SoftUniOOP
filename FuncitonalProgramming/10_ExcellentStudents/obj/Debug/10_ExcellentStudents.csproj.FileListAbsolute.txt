@@ -1,0 +1,8 @@
+D:\Dropbox\OOP\FuncitonalProgramming\10_ExcellentStudents\bin\Debug\10_ExcellentStudents.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\10_ExcellentStudents\bin\Debug\10_ExcellentStudents.exe
+D:\Dropbox\OOP\FuncitonalProgramming\10_ExcellentStudents\bin\Debug\10_ExcellentStudents.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\10_ExcellentStudents\bin\Debug\03_ClassStudent.exe
+D:\Dropbox\OOP\FuncitonalProgramming\10_ExcellentStudents\bin\Debug\03_ClassStudent.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\10_ExcellentStudents\obj\Debug\10_ExcellentStudents.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\FuncitonalProgramming\10_ExcellentStudents\obj\Debug\10_ExcellentStudents.exe
+D:\Dropbox\OOP\FuncitonalProgramming\10_ExcellentStudents\obj\Debug\10_ExcellentStudents.pdb

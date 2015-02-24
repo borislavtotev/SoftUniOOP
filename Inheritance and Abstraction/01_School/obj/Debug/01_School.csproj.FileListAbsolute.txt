@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\01_School\bin\Debug\01_School.exe.config
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\01_School\obj\Debug\01_School.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\01_School\bin\Debug\01_School.exe
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\01_School\bin\Debug\01_School.pdb
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\01_School\obj\Debug\01_School.exe
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\01_School\obj\Debug\01_School.pdb

@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Defining Classes\LaptopShop\bin\Debug\LaptopShop.exe.config
+C:\Users\Galka\Dropbox\OOP\Defining Classes\LaptopShop\bin\Debug\LaptopShop.exe
+C:\Users\Galka\Dropbox\OOP\Defining Classes\LaptopShop\bin\Debug\LaptopShop.pdb
+C:\Users\Galka\Dropbox\OOP\Defining Classes\LaptopShop\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Defining Classes\LaptopShop\obj\Debug\LaptopShop.exe
+C:\Users\Galka\Dropbox\OOP\Defining Classes\LaptopShop\obj\Debug\LaptopShop.pdb

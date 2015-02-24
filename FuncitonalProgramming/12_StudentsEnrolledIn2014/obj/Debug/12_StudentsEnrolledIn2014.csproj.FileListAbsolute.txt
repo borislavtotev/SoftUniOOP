@@ -1,0 +1,8 @@
+D:\Dropbox\OOP\FuncitonalProgramming\12_StudentsEnrolledIn2014\bin\Debug\12_StudentsEnrolledIn2014.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\12_StudentsEnrolledIn2014\bin\Debug\12_StudentsEnrolledIn2014.exe
+D:\Dropbox\OOP\FuncitonalProgramming\12_StudentsEnrolledIn2014\bin\Debug\12_StudentsEnrolledIn2014.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\12_StudentsEnrolledIn2014\bin\Debug\03_ClassStudent.exe
+D:\Dropbox\OOP\FuncitonalProgramming\12_StudentsEnrolledIn2014\bin\Debug\03_ClassStudent.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\12_StudentsEnrolledIn2014\obj\Debug\12_StudentsEnrolledIn2014.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\FuncitonalProgramming\12_StudentsEnrolledIn2014\obj\Debug\12_StudentsEnrolledIn2014.exe
+D:\Dropbox\OOP\FuncitonalProgramming\12_StudentsEnrolledIn2014\obj\Debug\12_StudentsEnrolledIn2014.pdb

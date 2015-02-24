@@ -1,0 +1,6 @@
+D:\Dropbox\OOP\CommonTypeSystem\01_CommonTypeSystem\bin\Debug\01_CommonTypeSystem.exe.config
+D:\Dropbox\OOP\CommonTypeSystem\01_CommonTypeSystem\bin\Debug\01_CommonTypeSystem.exe
+D:\Dropbox\OOP\CommonTypeSystem\01_CommonTypeSystem\bin\Debug\01_CommonTypeSystem.pdb
+D:\Dropbox\OOP\CommonTypeSystem\01_CommonTypeSystem\obj\Debug\01_CommonTypeSystem.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\CommonTypeSystem\01_CommonTypeSystem\obj\Debug\01_CommonTypeSystem.exe
+D:\Dropbox\OOP\CommonTypeSystem\01_CommonTypeSystem\obj\Debug\01_CommonTypeSystem.pdb

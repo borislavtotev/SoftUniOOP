@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\01_InterestCalculator\bin\Debug\01_InterestCalculator.exe.config
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\01_InterestCalculator\bin\Debug\01_InterestCalculator.exe
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\01_InterestCalculator\bin\Debug\01_InterestCalculator.pdb
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\01_InterestCalculator\obj\Debug\01_InterestCalculator.exe
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\01_InterestCalculator\obj\Debug\01_InterestCalculator.pdb

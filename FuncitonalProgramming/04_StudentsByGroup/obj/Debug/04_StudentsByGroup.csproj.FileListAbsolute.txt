@@ -1,0 +1,8 @@
+D:\Dropbox\OOP\FuncitonalProgramming\04_StudentsByGroup\bin\Debug\04_StudentsByGroup.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\04_StudentsByGroup\bin\Debug\04_StudentsByGroup.exe
+D:\Dropbox\OOP\FuncitonalProgramming\04_StudentsByGroup\bin\Debug\04_StudentsByGroup.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\04_StudentsByGroup\bin\Debug\03_ClassStudent.exe
+D:\Dropbox\OOP\FuncitonalProgramming\04_StudentsByGroup\bin\Debug\03_ClassStudent.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\04_StudentsByGroup\obj\Debug\04_StudentsByGroup.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\FuncitonalProgramming\04_StudentsByGroup\obj\Debug\04_StudentsByGroup.exe
+D:\Dropbox\OOP\FuncitonalProgramming\04_StudentsByGroup\obj\Debug\04_StudentsByGroup.pdb

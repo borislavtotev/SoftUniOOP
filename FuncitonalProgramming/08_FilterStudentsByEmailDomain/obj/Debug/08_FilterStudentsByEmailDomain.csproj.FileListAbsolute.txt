@@ -1,0 +1,8 @@
+D:\Dropbox\OOP\FuncitonalProgramming\08_FilterStudentsByEmailDomain\bin\Debug\08_FilterStudentsByEmailDomain.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\08_FilterStudentsByEmailDomain\bin\Debug\08_FilterStudentsByEmailDomain.exe
+D:\Dropbox\OOP\FuncitonalProgramming\08_FilterStudentsByEmailDomain\bin\Debug\08_FilterStudentsByEmailDomain.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\08_FilterStudentsByEmailDomain\bin\Debug\03_ClassStudent.exe
+D:\Dropbox\OOP\FuncitonalProgramming\08_FilterStudentsByEmailDomain\bin\Debug\03_ClassStudent.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\08_FilterStudentsByEmailDomain\obj\Debug\08_FilterStudentsByEmailDomain.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\FuncitonalProgramming\08_FilterStudentsByEmailDomain\obj\Debug\08_FilterStudentsByEmailDomain.exe
+D:\Dropbox\OOP\FuncitonalProgramming\08_FilterStudentsByEmailDomain\obj\Debug\08_FilterStudentsByEmailDomain.pdb

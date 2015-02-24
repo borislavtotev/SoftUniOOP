@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\04_CompanyHierarchy\bin\Debug\04_CompanyHierarchy.exe.config
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\04_CompanyHierarchy\obj\Debug\04_CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\04_CompanyHierarchy\bin\Debug\04_CompanyHierarchy.exe
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\04_CompanyHierarchy\bin\Debug\04_CompanyHierarchy.pdb
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\04_CompanyHierarchy\obj\Debug\04_CompanyHierarchy.exe
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\04_CompanyHierarchy\obj\Debug\04_CompanyHierarchy.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\OOP\FuncitonalProgramming\02_CustomLINQExtensionMethods\bin\Debug\02_CustomLINQExtensionMethods.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\02_CustomLINQExtensionMethods\bin\Debug\02_CustomLINQExtensionMethods.exe
+D:\Dropbox\OOP\FuncitonalProgramming\02_CustomLINQExtensionMethods\bin\Debug\02_CustomLINQExtensionMethods.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\02_CustomLINQExtensionMethods\obj\Debug\02_CustomLINQExtensionMethods.exe
+D:\Dropbox\OOP\FuncitonalProgramming\02_CustomLINQExtensionMethods\obj\Debug\02_CustomLINQExtensionMethods.pdb

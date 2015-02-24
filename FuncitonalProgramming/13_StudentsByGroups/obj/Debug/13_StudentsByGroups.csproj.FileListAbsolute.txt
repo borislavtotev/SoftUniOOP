@@ -1,0 +1,6 @@
+D:\Dropbox\OOP\FuncitonalProgramming\13_StudentsByGroups\bin\Debug\13_StudentsByGroups.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\13_StudentsByGroups\bin\Debug\13_StudentsByGroups.exe
+D:\Dropbox\OOP\FuncitonalProgramming\13_StudentsByGroups\bin\Debug\13_StudentsByGroups.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\13_StudentsByGroups\obj\Debug\13_StudentsByGroups.exe
+D:\Dropbox\OOP\FuncitonalProgramming\13_StudentsByGroups\obj\Debug\13_StudentsByGroups.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\13_StudentsByGroups\obj\Debug\13_StudentsByGroups.csprojResolveAssemblyReference.cache

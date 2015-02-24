@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\02_HumanStudentWorker\bin\Debug\02_HumanStudentWorker.exe.config
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\02_HumanStudentWorker\bin\Debug\02_HumanStudentWorker.exe
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\02_HumanStudentWorker\bin\Debug\02_HumanStudentWorker.pdb
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\02_HumanStudentWorker\obj\Debug\02_HumanStudentWorker.exe
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\02_HumanStudentWorker\obj\Debug\02_HumanStudentWorker.pdb
+C:\Users\Galka\Dropbox\OOP\Inheritance and Abstraction\02_HumanStudentWorker\obj\Debug\02_HumanStudentWorker.csprojResolveAssemblyReference.cache

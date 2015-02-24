@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\03_StudentClass\bin\Debug\03_StudentClass.exe.config
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\03_StudentClass\bin\Debug\03_StudentClass.exe
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\03_StudentClass\bin\Debug\03_StudentClass.pdb
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\03_StudentClass\obj\Debug\03_StudentClass.exe
+C:\Users\Galka\Dropbox\OOP\Delegates-and-Events\03_StudentClass\obj\Debug\03_StudentClass.pdb

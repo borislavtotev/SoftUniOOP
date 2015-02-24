@@ -1,0 +1,8 @@
+D:\Dropbox\OOP\FuncitonalProgramming\07_SortStudents\bin\Debug\07_SortStudents.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\07_SortStudents\bin\Debug\07_SortStudents.exe
+D:\Dropbox\OOP\FuncitonalProgramming\07_SortStudents\bin\Debug\07_SortStudents.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\07_SortStudents\bin\Debug\03_ClassStudent.exe
+D:\Dropbox\OOP\FuncitonalProgramming\07_SortStudents\bin\Debug\03_ClassStudent.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\07_SortStudents\obj\Debug\07_SortStudents.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\FuncitonalProgramming\07_SortStudents\obj\Debug\07_SortStudents.exe
+D:\Dropbox\OOP\FuncitonalProgramming\07_SortStudents\obj\Debug\07_SortStudents.pdb

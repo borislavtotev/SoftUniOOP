@@ -1,0 +1,8 @@
+D:\Dropbox\OOP\FuncitonalProgramming\11_WeakStudents\bin\Debug\11_WeakStudents.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\11_WeakStudents\bin\Debug\11_WeakStudents.exe
+D:\Dropbox\OOP\FuncitonalProgramming\11_WeakStudents\bin\Debug\11_WeakStudents.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\11_WeakStudents\bin\Debug\03_ClassStudent.exe
+D:\Dropbox\OOP\FuncitonalProgramming\11_WeakStudents\bin\Debug\03_ClassStudent.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\11_WeakStudents\obj\Debug\11_WeakStudents.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\FuncitonalProgramming\11_WeakStudents\obj\Debug\11_WeakStudents.exe
+D:\Dropbox\OOP\FuncitonalProgramming\11_WeakStudents\obj\Debug\11_WeakStudents.pdb

@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\03_GenericList\bin\Debug\03_GenericList.exe.config
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\03_GenericList\bin\Debug\03_GenericList.exe
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\03_GenericList\bin\Debug\03_GenericList.pdb
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\03_GenericList\obj\Debug\03_GenericList.exe
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\03_GenericList\obj\Debug\03_GenericList.pdb

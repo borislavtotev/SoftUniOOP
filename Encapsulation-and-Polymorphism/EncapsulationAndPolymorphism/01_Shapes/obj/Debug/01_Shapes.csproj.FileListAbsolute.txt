@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.pdb
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.exe
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.pdb
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe.config
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.exe
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.pdb
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.pdb
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe.config
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.exe
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.pdb
+D:\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe.config
+D:\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.exe
+D:\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.pdb

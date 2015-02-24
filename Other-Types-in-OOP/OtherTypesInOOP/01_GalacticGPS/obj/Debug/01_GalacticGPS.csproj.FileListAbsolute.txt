@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\01_GalacticGPS\bin\Debug\01_GalacticGPS.exe.config
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\01_GalacticGPS\bin\Debug\01_GalacticGPS.exe
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\01_GalacticGPS\bin\Debug\01_GalacticGPS.pdb
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\01_GalacticGPS\obj\Debug\01_GalacticGPS.exe
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\01_GalacticGPS\obj\Debug\01_GalacticGPS.pdb
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\01_GalacticGPS\obj\Debug\01_GalacticGPS.csprojResolveAssemblyReference.cache

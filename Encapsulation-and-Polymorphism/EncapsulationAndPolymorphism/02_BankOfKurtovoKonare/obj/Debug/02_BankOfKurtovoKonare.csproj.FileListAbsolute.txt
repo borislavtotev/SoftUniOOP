@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.pdb
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.exe
+c:\users\admin\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.pdb
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.exe
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe.config
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.pdb
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.pdb
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe.config
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.exe
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.pdb

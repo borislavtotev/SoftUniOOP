@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Defining Classes\PCCaralog\bin\Debug\PCCaralog.exe.config
+C:\Users\Galka\Dropbox\OOP\Defining Classes\PCCaralog\obj\Debug\PCCaralog.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Defining Classes\PCCaralog\bin\Debug\PCCaralog.exe
+C:\Users\Galka\Dropbox\OOP\Defining Classes\PCCaralog\bin\Debug\PCCaralog.pdb
+C:\Users\Galka\Dropbox\OOP\Defining Classes\PCCaralog\obj\Debug\PCCaralog.exe
+C:\Users\Galka\Dropbox\OOP\Defining Classes\PCCaralog\obj\Debug\PCCaralog.pdb

@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\04_GenericListVersion\bin\Debug\04_GenericListVersion.exe.config
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\04_GenericListVersion\bin\Debug\04_GenericListVersion.exe
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\04_GenericListVersion\bin\Debug\04_GenericListVersion.pdb
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\04_GenericListVersion\obj\Debug\04_GenericListVersion.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\04_GenericListVersion\obj\Debug\04_GenericListVersion.exe
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\04_GenericListVersion\obj\Debug\04_GenericListVersion.pdb

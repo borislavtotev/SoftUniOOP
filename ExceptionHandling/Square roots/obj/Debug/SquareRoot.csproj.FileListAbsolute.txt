@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\ConsoleApplication1\bin\Debug\SquareRoot.exe.config
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\ConsoleApplication1\bin\Debug\SquareRoot.exe
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\ConsoleApplication1\bin\Debug\SquareRoot.pdb
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\ConsoleApplication1\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\ConsoleApplication1\obj\Debug\SquareRoot.exe
+C:\Users\Galka\Dropbox\OOP\ExceptionHandling\ConsoleApplication1\obj\Debug\SquareRoot.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\OOP\FuncitonalProgramming\01_StringBuilderExtensions\bin\Debug\01_StringBuilderExtensions.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\01_StringBuilderExtensions\bin\Debug\01_StringBuilderExtensions.exe
+D:\Dropbox\OOP\FuncitonalProgramming\01_StringBuilderExtensions\bin\Debug\01_StringBuilderExtensions.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\01_StringBuilderExtensions\obj\Debug\01_StringBuilderExtensions.exe
+D:\Dropbox\OOP\FuncitonalProgramming\01_StringBuilderExtensions\obj\Debug\01_StringBuilderExtensions.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\01_StringBuilderExtensions\obj\Debug\01_StringBuilderExtensions.csprojResolveAssemblyReference.cache

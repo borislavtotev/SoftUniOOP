@@ -1,0 +1,8 @@
+D:\Dropbox\OOP\FuncitonalProgramming\09_FilterStudentsByPhone\bin\Debug\09_FilterStudentsByPhone.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\09_FilterStudentsByPhone\bin\Debug\09_FilterStudentsByPhone.exe
+D:\Dropbox\OOP\FuncitonalProgramming\09_FilterStudentsByPhone\bin\Debug\09_FilterStudentsByPhone.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\09_FilterStudentsByPhone\bin\Debug\03_ClassStudent.exe
+D:\Dropbox\OOP\FuncitonalProgramming\09_FilterStudentsByPhone\bin\Debug\03_ClassStudent.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\09_FilterStudentsByPhone\obj\Debug\09_FilterStudentsByPhone.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\FuncitonalProgramming\09_FilterStudentsByPhone\obj\Debug\09_FilterStudentsByPhone.exe
+D:\Dropbox\OOP\FuncitonalProgramming\09_FilterStudentsByPhone\obj\Debug\09_FilterStudentsByPhone.pdb

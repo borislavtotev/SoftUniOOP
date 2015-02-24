@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\02_FractionCalculator\bin\Debug\02_FractionCalculator.exe.config
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\02_FractionCalculator\bin\Debug\02_FractionCalculator.exe
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\02_FractionCalculator\bin\Debug\02_FractionCalculator.pdb
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\02_FractionCalculator\obj\Debug\02_FractionCalculator.exe
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\02_FractionCalculator\obj\Debug\02_FractionCalculator.pdb
+C:\Users\Galka\Dropbox\OOP\Other-Types-in-OOP\OtherTypesInOOP\02_FractionCalculator\obj\Debug\02_FractionCalculator.csprojResolveAssemblyReference.cache

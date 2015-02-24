@@ -1,0 +1,6 @@
+D:\Dropbox\OOP\CommonTypeSystem\02_StringDisperser\bin\Debug\02_StringDisperser.exe.config
+D:\Dropbox\OOP\CommonTypeSystem\02_StringDisperser\bin\Debug\02_StringDisperser.exe
+D:\Dropbox\OOP\CommonTypeSystem\02_StringDisperser\bin\Debug\02_StringDisperser.pdb
+D:\Dropbox\OOP\CommonTypeSystem\02_StringDisperser\obj\Debug\02_StringDisperser.exe
+D:\Dropbox\OOP\CommonTypeSystem\02_StringDisperser\obj\Debug\02_StringDisperser.pdb
+D:\Dropbox\OOP\CommonTypeSystem\02_StringDisperser\obj\Debug\02_StringDisperser.csprojResolveAssemblyReference.cache

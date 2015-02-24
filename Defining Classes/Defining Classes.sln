@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persons", "ConsoleApplication1\Persons.csproj", "{54499612-0874-495D-8538-B697048CD795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopShop", "LaptopShop\LaptopShop.csproj", "{675E1F42-C75F-456A-8C82-C1F8F9CE25C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCCaralog", "PCCaralog\PCCaralog.csproj", "{CE1B6DB5-1762-475C-BAD1-064583F77D31}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://borislavtotev.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleApplication1\\Persons.csproj
+		SccProjectName1 = ConsoleApplication1
+		SccLocalPath1 = ConsoleApplication1
+		SccProjectUniqueName2 = LaptopShop\\LaptopShop.csproj
+		SccProjectName2 = LaptopShop
+		SccLocalPath2 = LaptopShop
+		SccProjectUniqueName3 = PCCaralog\\PCCaralog.csproj
+		SccProjectName3 = PCCaralog
+		SccLocalPath3 = PCCaralog
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54499612-0874-495D-8538-B697048CD795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54499612-0874-495D-8538-B697048CD795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54499612-0874-495D-8538-B697048CD795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54499612-0874-495D-8538-B697048CD795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675E1F42-C75F-456A-8C82-C1F8F9CE25C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675E1F42-C75F-456A-8C82-C1F8F9CE25C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675E1F42-C75F-456A-8C82-C1F8F9CE25C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675E1F42-C75F-456A-8C82-C1F8F9CE25C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1B6DB5-1762-475C-BAD1-064583F77D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1B6DB5-1762-475C-BAD1-064583F77D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1B6DB5-1762-475C-BAD1-064583F77D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1B6DB5-1762-475C-BAD1-064583F77D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

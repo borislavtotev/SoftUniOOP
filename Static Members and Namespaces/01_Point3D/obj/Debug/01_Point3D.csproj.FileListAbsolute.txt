@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\01_Point3D\bin\Debug\01_Point3D.exe.config
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\01_Point3D\obj\Debug\01_Point3D.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\01_Point3D\bin\Debug\01_Point3D.exe
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\01_Point3D\bin\Debug\01_Point3D.pdb
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\01_Point3D\obj\Debug\01_Point3D.exe
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\01_Point3D\obj\Debug\01_Point3D.pdb

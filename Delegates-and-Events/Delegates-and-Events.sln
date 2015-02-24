@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_InterestCalculator", "01_InterestCalculator\01_InterestCalculator.csproj", "{E10B171B-0DBE-4FED-947C-C2C26159C1E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_AsynchronousTimer", "02_AsynchronousTimer\02_AsynchronousTimer.csproj", "{43D35069-0970-47AE-B41D-92309E8B67C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_StudentClass", "03_StudentClass\03_StudentClass.csproj", "{13FED5F7-C2E7-4466-BDA8-4FEEB1443BED}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://borislavtotev.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 01_InterestCalculator\\01_InterestCalculator.csproj
+		SccProjectName1 = 01_InterestCalculator
+		SccLocalPath1 = 01_InterestCalculator
+		SccProjectUniqueName2 = 02_AsynchronousTimer\\02_AsynchronousTimer.csproj
+		SccProjectName2 = 02_AsynchronousTimer
+		SccLocalPath2 = 02_AsynchronousTimer
+		SccProjectUniqueName3 = 03_StudentClass\\03_StudentClass.csproj
+		SccProjectName3 = 03_StudentClass
+		SccLocalPath3 = 03_StudentClass
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10B171B-0DBE-4FED-947C-C2C26159C1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10B171B-0DBE-4FED-947C-C2C26159C1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10B171B-0DBE-4FED-947C-C2C26159C1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10B171B-0DBE-4FED-947C-C2C26159C1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D35069-0970-47AE-B41D-92309E8B67C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D35069-0970-47AE-B41D-92309E8B67C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D35069-0970-47AE-B41D-92309E8B67C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D35069-0970-47AE-B41D-92309E8B67C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FED5F7-C2E7-4466-BDA8-4FEEB1443BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FED5F7-C2E7-4466-BDA8-4FEEB1443BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FED5F7-C2E7-4466-BDA8-4FEEB1443BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FED5F7-C2E7-4466-BDA8-4FEEB1443BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

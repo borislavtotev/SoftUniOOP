@@ -1,0 +1,8 @@
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\Distance Calculator\bin\Debug\Distance Calculator.exe
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\Distance Calculator\bin\Debug\Distance Calculator.pdb
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\Distance Calculator\bin\Debug\01_Point3D.exe
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\Distance Calculator\bin\Debug\01_Point3D.pdb
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\Distance Calculator\obj\Debug\02_Distance Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\Distance Calculator\obj\Debug\Distance Calculator.exe
+C:\Users\Galka\Dropbox\OOP\Static Members and Namespaces\Distance Calculator\obj\Debug\Distance Calculator.pdb

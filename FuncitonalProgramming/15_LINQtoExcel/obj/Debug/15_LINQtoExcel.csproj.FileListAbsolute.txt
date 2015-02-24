@@ -1,0 +1,8 @@
+D:\Dropbox\OOP\FuncitonalProgramming\15_LINQtoExcel\bin\Debug\15_LINQtoExcel.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\15_LINQtoExcel\bin\Debug\15_LINQtoExcel.exe
+D:\Dropbox\OOP\FuncitonalProgramming\15_LINQtoExcel\bin\Debug\15_LINQtoExcel.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\15_LINQtoExcel\bin\Debug\EPPlus.dll
+D:\Dropbox\OOP\FuncitonalProgramming\15_LINQtoExcel\bin\Debug\EPPlus.xml
+D:\Dropbox\OOP\FuncitonalProgramming\15_LINQtoExcel\obj\Debug\15_LINQtoExcel.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\FuncitonalProgramming\15_LINQtoExcel\obj\Debug\15_LINQtoExcel.exe
+D:\Dropbox\OOP\FuncitonalProgramming\15_LINQtoExcel\obj\Debug\15_LINQtoExcel.pdb

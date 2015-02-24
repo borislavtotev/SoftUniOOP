@@ -1,0 +1,6 @@
+D:\Dropbox\OOP\FuncitonalProgramming\14_StudentsJoinedToSpecialties\bin\Debug\14_StudentsJoinedToSpecialties.exe.config
+D:\Dropbox\OOP\FuncitonalProgramming\14_StudentsJoinedToSpecialties\obj\Debug\14_StudentsJoinedToSpecialties.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\FuncitonalProgramming\14_StudentsJoinedToSpecialties\bin\Debug\14_StudentsJoinedToSpecialties.exe
+D:\Dropbox\OOP\FuncitonalProgramming\14_StudentsJoinedToSpecialties\bin\Debug\14_StudentsJoinedToSpecialties.pdb
+D:\Dropbox\OOP\FuncitonalProgramming\14_StudentsJoinedToSpecialties\obj\Debug\14_StudentsJoinedToSpecialties.exe
+D:\Dropbox\OOP\FuncitonalProgramming\14_StudentsJoinedToSpecialties\obj\Debug\14_StudentsJoinedToSpecialties.pdb

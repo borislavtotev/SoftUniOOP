@@ -1,0 +1,13 @@
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\Galka\Dropbox\OOP\Encapsulation-and-Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+C:\Users\Galka\Desktop\EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+D:\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+D:\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Users\admin\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\admin\Dropbox\OOP\Encapsulation-and-Polymorphism\EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
